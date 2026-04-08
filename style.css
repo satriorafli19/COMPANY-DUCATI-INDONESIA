@@ -250,3 +250,11 @@ footer {
         font-size: 32px;
     }
 }
+
+:root {
+    --ducati-red: #DA251D;
+    --dark-bg: #000000;    /* Hitam pekat untuk aksen */
+    --light-bg: #1A1A1A;   /* Hitam keabu-abuan untuk background dasar */
+    --text-color: #E0E0E0; /* Teks warna terang agar mudah dibaca */
+    --white: #FFFFFF;
+}
